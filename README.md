@@ -13,4 +13,4 @@ Go to Color Themes > Theme Editor > Import
 
 Once imported, click Apply
 
-OMDark should now show as a choice in the puldown menu
+OMDark should now show as a choice in the pull down menu
