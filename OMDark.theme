@@ -107,8 +107,8 @@
             "text-color": "#da7340"
         },
         "Function": {
-            "selected-text-color": "#a740da",
-            "text-color": "#702b93"
+            "selected-text-color": "#c14afd",
+            "text-color": "#a740da"
         },
         "Import": {
             "selected-text-color": "#2a904e",
