@@ -60,7 +60,7 @@
         },
         "Char": {
             "selected-text-color": "#2080bb",
-            "text-color": "#2080bb"
+            "text-color": "#40a5da"
         },
         "Comment": {
             "selected-text-color": "#808080",
@@ -89,8 +89,8 @@
             "text-color": "#da7340"
         },
         "Documentation": {
-            "selected-text-color": "#e2266e",
-            "text-color": "#871742"
+            "selected-text-color": "#871742",
+            "text-color": "#e2266e"
         },
         "Error": {
             "selected-text-color": "#da4453",
@@ -107,8 +107,8 @@
             "text-color": "#da7340"
         },
         "Function": {
-            "selected-text-color": "#c14afd",
-            "text-color": "#a740da"
+            "selected-text-color": "#a740da",
+            "text-color": "#c14afd"
         },
         "Import": {
             "selected-text-color": "#2a904e",
