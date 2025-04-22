@@ -1,4 +1,4 @@
-# OpenMandriva-Kate-Colorscheme
+# OpenMandriva-Kate/KWrite-Colorscheme
  OM brand colors for Kate and KWrite
 
 Make sure you don't have any other theme in your download folder to confuse you when doing this one.
