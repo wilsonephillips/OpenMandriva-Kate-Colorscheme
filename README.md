@@ -1,5 +1,5 @@
 # OpenMandriva-Kate-Colorscheme
- OM brand colors for Kate
+ OM brand colors for Kate and KWrite
 
 Make sure you don't have any other theme in your download folder to confuse you when doing this one.
 
@@ -13,4 +13,4 @@ Go to Color Themes > Theme Editor > Import
 
 Once imported, click Apply
 
-OMDark should now show as a choice in the pull down menu
+OMDark should now show as a choice in the pull down menu for Kate and KWrite.
